@@ -1,0 +1,86 @@
+{
+    "monday": {
+        "morning": [
+            "Prepare breakfast",
+            "Run 3 km"
+        ],
+        "afternoon": [
+            "Sleep"
+        ],
+        "evening": [
+            "Clean the house",
+            "Shopping"
+        ]
+    },
+    "tuesday": {
+        "morning": [
+            "Eat breakfast"
+        ],
+        "afternoon": [
+            "Meeting",
+            "Ride the bike"
+        ],
+        "evening": [
+            "Cooking"
+        ]
+    },
+    "wednesday": {
+        "morning": [
+            "Yoga"
+        ],
+        "afternoon": [
+            "Running in the park"
+        ],
+        "evening": [
+            "Date night"
+        ]
+    },
+    "thursday": {
+        "morning": [
+            "Running in the park"
+        ],
+        "afternoon": [
+            "Doing laundry",
+            "Sleeping"
+        ],
+        "evening": [
+            "Shopping"
+        ]
+    },
+    "friday": {
+        "morning": [
+            "Meditation"
+        ],
+        "afternoon": [
+            "Reading",
+            "Journal"
+        ],
+        "evening": [
+            "Call client"
+        ]
+    },
+    "saturday": {
+        "morning": [
+            "Bake some cake"
+        ],
+        "afternoon": [
+            "Brunch"
+        ],
+        "evening": [
+            "Workshop",
+            "Paint the ceiling"
+        ]
+    },
+    "sunday": {
+        "morning": [
+            "Church time"
+        ],
+        "afternoon": [
+            "Run in the park",
+            "Small shopping session"
+        ],
+        "evening": [
+            "Date night"
+        ]
+    }
+}
