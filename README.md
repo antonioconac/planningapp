@@ -1,1 +1,7 @@
-# planningapp
+# Weekly Planner
+  - This application is a demo for a weekly planner app. I used Python with Streamlit library to create it. It involves 2 pages, one as a dashboard, where tasks can be added, displayed or if they are completed, they can be eliminated from the list, and one as a full scheduler, where you can only see what are the activities over the week. The entire application has a simple logic, but enough to display the foundamentals I have learned about working with JSON files, data types like lists and dictionaries, the Streamlit library and code management.<br><br>
+  - The main pages of the application are the following:<br>
+<img width="1873" height="940" alt="dashboard" src="https://github.com/user-attachments/assets/099fb94a-901a-4af8-b825-add9b0060c3d" /><br><br>
+  - There are 3 columns spread across the page, the left one has the logic for adding the task to a specific day and day period. On the middle there are information for the user in order to know how to use the features. On the right there is the selectboxes that helps with the displaying of the activities. You just need to select the day and the period and you'll be able to see the tasks for that specific interval<br><br>
+<img width="1907" height="961" alt="full_scheduler" src="https://github.com/user-attachments/assets/91212c24-51d6-4938-bdc2-76848c33fdad" /><br><br>
+  - Here is a more simple page, where the activites are displayed for the entire week. If in the previous page there are changes, they'll be reflected directly here.
